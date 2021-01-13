@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "qs": "1.0.0",
-    "node-uuid": "1.4.0",
-    "lodash": "4.0.0" 
+    "node-uu
   }
 }
 
